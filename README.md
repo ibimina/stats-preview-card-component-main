@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![image](index.html(iPhone6_7_8)a)
-![image](index.html(NestHubMax)a)
+![image](index.html(iPhone6_7_8)a.png)
+![image](index.html(NestHubMax)a.png)
 
 
 ### Links
