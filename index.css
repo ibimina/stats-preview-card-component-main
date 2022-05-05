@@ -155,5 +155,8 @@ footer a {
  }
  aside p{
      font-size: .8rem;
- }    
+ }   
+ footer p{
+     font-size: 2rem;
+ } 
 }
